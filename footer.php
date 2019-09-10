@@ -26,7 +26,7 @@
                                     <div class="list-contact-wrapper">
                                         <div itemscope="" itemtype="http://schema.org/Organization">
                                             <div class="contact-wrapper address"> <span class="icon"><i class="fa fa-map-marker"></i></span> <span itemprop="name" style="margin-left: -3px;">Mad Chafer</span>
-                                                <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"> <span itemprop="streetAddress">e-Innovation Centre<br>San José, Costa Rica</span>
+                                                <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"> <span itemprop="streetAddress">e-Innovation Center<br>San José, Costa Rica</span>
                                                     <br> <span itemprop="addressLocality">San José</span>
                                                     <br> <span itemprop="addressRegion">Costa Rica,</span> <span itemprop="postalCode">10101</span></div>
                                             </div>
@@ -356,7 +356,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-7 align-right"> <img src="wp-content\themes\yellow-marshmallow\images\html5.png" alt="HTML5 Specialists" title="HTML5 Specialists" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\css3.png" alt="Experts In CSS3" title="Experts In CSS3" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\php.png" alt="Experienced PHP Developers" title="Experienced PHP Developers" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\mysql.png" alt="Efficient MySQL Developers" title="Efficient MySQL Developers" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\javascript.png" alt="Talented JavaScript Coders" title="Talented JavaScript Coders" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\wordpress.png" alt="We Build With WordPress" title="We Build With WordPress" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\joomla.png" alt="We Also Work With Joomla" title="We Also Work With Joomla" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\magento.png" alt="We Also Work With Magento" title="We Also Work With Magento" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\adobe.png" alt="Adobe Creative Suite Designers" title="Adobe Creative Suite Designers" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\ukwda.png" alt="UK Web Design Association Member" title="UK Web Design Association Member" class="footer-logos"></div>
+                        <div class="col-md-7 align-right"> <img src="wp-content\themes\yellow-marshmallow\images\html5.png" alt="HTML5 Specialists" title="HTML5 Specialists" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\css3.png" alt="Experts In CSS3" title="Experts In CSS3" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\php.png" alt="Experienced PHP Developers" title="Experienced PHP Developers" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\mysql.png" alt="Efficient MySQL Developers" title="Efficient MySQL Developers" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\javascript.png" alt="Talented JavaScript Coders" title="Talented JavaScript Coders" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\wordpress.png" alt="We Build With WordPress" title="We Build With WordPress" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\joomla.png" alt="We Also Work With Joomla" title="We Also Work With Joomla" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\magento.png" alt="We Also Work With Magento" title="We Also Work With Magento" class="footer-logos"> <img src="wp-content\themes\yellow-marshmallow\images\adobe.png" alt="Adobe Creative Suite Designers" title="Adobe Creative Suite Designers" class="footer-logos"> </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
@@ -543,7 +543,7 @@
         });
     </script>
     <script type="text/javascript">
-        /* <![CDATA[ */
+        /* <![CDATA[ *//*
         goog_snippet_vars = function() {
                 var w = window;
                 w.google_conversion_id = 960785482;

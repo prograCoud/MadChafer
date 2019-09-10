@@ -17,7 +17,7 @@
 
 
         <div class=" template-wrap cf non-home-head">
-            <div class="parallax" data-speed="15" style="background-image:url(../wp-content/uploads/2014/09/web-hosting-telford-shropshire-1440x810.jpg); background-color:#222222; background-position: top center; background-repeat:repeat; background-attachment: fixed;">
+            <div class="parallax" data-speed="15" style="background-image:url(../wp-content/uploads/2014/09/web-hosting-sanjose-costarica-1440x810.jpg); background-color:#222222; background-position: top center; background-repeat:repeat; background-attachment: fixed;">
                 <div class="pattern"></div>
             </div>
             <div class="container with-parallax">
@@ -25,7 +25,7 @@
                     <div class="animation-wrapper col-md-12" style="margin:10px 0 0;">
                         <div class="heading-title-wrapper">
                             <h1 class="title">Web Hosting <span class="color-text">&#038; Support</span></h1> <span class="header-line-title"></span>
-                            <p id="breadcrumbs"><span><span><a href="..\index.htm">Home</a> » <span class="breadcrumb_last">Web Hosting &#038; Support</span></span>
+                            <p id="breadcrumbs"><span><span><a href="..\index.php">Home</a> » <span class="breadcrumb_last">Web Hosting &#038; Support</span></span>
                                 </span>
                             </p>
                         </div>
@@ -61,14 +61,14 @@
                                         <div class="row">
                                             <div class="col-md-4 animated fadeInLeft" style="-webkit-animation-duration: 900ms; -moz-animation-duration: 900ms; -o-animation-duration: 900ms;animation-duration: 900ms; animation-delay:0ms; -webkit-animation-delay:0ms; -moz-animation-delay:0ms;-o-animation-delay:0ms; margin-bottom: 70px;">
                                                 <p>Our fully managed web hosting packages provide a fast, reliable and secure platform for our client's websites. Incorporating the latest equipment and technologies, we're able to provide a service incomparable to other web hosting companies.</p>
-                                                <p>Powered by <a href="http://www.vidahost.com" rel="nofollow" target="_blank">Vidahost</a>, one of the UK's most highly rated hosting providers, we can keep your website running at lightening speed, whilst you do what you do best, running your business.</p>
+                                                We are one of the CR's most highly rated hosting providers, we can keep your website running at lightening speed, whilst you do what you do best, running your business.</p>
                                                 <hr>
                                                 <ul class="service-list-main">
                                                     <li><i class="fa fa-cloud"></i>Fast, reliable & secure cloud server <span>Clustered over multiple servers and built from the ground up to offer high performance, reliability and flexibility.</span></li>
                                                     <li><i class="fa fa-dashboard"></i>Unlimited bandwidth & storage <span>All of our hosting plans include unlimited bandwidth and storage space, so you'll never need to worry about running out!</span></li>
                                                     <li><i class="fa fa-envelope"></i>Domain name & email mailboxes <span>We include a free domain name registration or transfer with every hosting plan, as well as unlimited email mailboxes and forwarders.</span></li>
                                                     <li><i class="fa fa-umbrella"></i>Quality on-going website support <span>Our support team are available to all of our customers via telephone, email or office visits during business hours. From general enquiries and support to updates & bug fixes, we've got it covered.</span></li>
-                                                    <li><i class="fa fa-flag"></i>UK based data centres <span>All of your website data is stored safely right here in the UK in a state-of-the-art Tier 3+ 2N Data centre.</span></li>
+                                                    <li><i class="fa fa-flag"></i>CR based data centres <span>All of your website data is stored safely right here in the CR in a state-of-the-art Tier 3+ 2N Data centre.</span></li>
                                                     <li><i class="fa fa-floppy-o"></i>Full daily website backups <span>Every hosting and support package we provide comes with full daily backups, so your website is always recoverable.</span></li>
                                                 </ul>
                                             </div>
@@ -110,4 +110,3 @@
 </body>
 
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1565732801 -->
